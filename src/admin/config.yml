@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: seanpue/_test
+  branch: main
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
